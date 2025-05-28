@@ -1,2 +1,2 @@
-# IETE
+# SUMMER_INTERNSHIP_2025
 intern
